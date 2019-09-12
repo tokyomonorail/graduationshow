@@ -21,3 +21,4 @@ Header | Inhoud
 Notities:
 
 - Alle medium/onderwerp tags zijn geschreven in het Nederlands, ongeacht de taal van de beschrijvende tekst
+- In medium/onderwerp kolommen staan alleen zelfstandige naamwoorden zonder lidwoord. Als het onderwerp uit meerdere woorden bestaat worden die aan elkaar geschreven. Dus 'socialemedia' in plaats van 'sociale media' en 'lichaam' in plaats van 'het lichaam'.
