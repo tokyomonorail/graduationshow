@@ -1,9 +1,21 @@
 # Graduation Show
 
-`graduationshow-data.csv` geeft een overzicht van afstudeerprojecten aan Nederlandse design opleidingen.
+`graduationshow-data.csv` geeft een overzicht van afstudeerprojecten aan Nederlandse design-gerelateerde opleidingen uit 2019:
+
+Academie | Afdeling
+--- | ---
+Design Academy Eindhoven | Alle (BA en MA)
+Fontys Academy of Art, Communication and Design | BA Experience Design
+Gerrit Rietveld Academie |	designLAB, Architectural Design
+Hogeschool voor de Kunsten Utrecht | BA Product Design, BA Spatial Design, BA Fashion Design, MA Interior Architecture
+Koninklijke Academie van Beeldende Kunsten | BA Graphic Design, MA Non Linear Narrative
+Piet Zwart Institute | MA Interior Architecture: Research + Design
+Sandberg Instituut | MA Design, MA Design of Experiences
+
+De dataset is op de volgende manier georganiseerd:
 
 Header | Inhoud
----|---------
+--- | ---
 `titel`| Titel van het project
 `url`| Link naar de originele publicatie
 `inhoud`| Beschrijvende tekst
