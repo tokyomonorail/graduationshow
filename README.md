@@ -12,7 +12,7 @@ Koninklijke Academie van Beeldende Kunsten | Den Haag | BA Graphic Design, MA No
 Piet Zwart Institute | Rotterdam | MA Interior Architecture: Research + Design
 Sandberg Instituut | Amsterdam | MA Design, MA Design of Experiences
 
-## De dataset is op de volgende manier georganiseerd:
+De dataset is op de volgende manier georganiseerd:
 
 Header | Inhoud
 --- | ---
