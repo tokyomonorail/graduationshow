@@ -1,4 +1,4 @@
-# Graduation Show
+# Graduation (dot) Show
 
 `graduationshow-data.csv` geeft een overzicht van afstudeerprojecten aan Nederlandse design-gerelateerde opleidingen uit 2019:
 
