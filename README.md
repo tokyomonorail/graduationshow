@@ -4,7 +4,7 @@
 
 Academie | Plaats | Afdeling
 --- | --- | ---
-Design Academy Eindhoven | Eindhoven | Alle (BA en MA)
+Design Academy Eindhoven | Eindhoven | MA Contextual Design, MA Design Curating and Writing, MA Information Design, MA Social Design, BA Food Non Food, BA Man and Activity, BA Man and Communication, BA Man and Identity, BA Man and Leisure, BA Man and Motion, BA Man and Well being, BA Public Private
 Fontys Academy of Art, Communication and Design | Tilburg | BA Experience Design
 Gerrit Rietveld Academie | Amsterdam | designLAB, Architectural Design
 Hogeschool voor de Kunsten Utrecht | Utrecht | BA Product Design, BA Spatial Design, BA Fashion Design, MA Interior Architecture
