@@ -11,6 +11,7 @@ Hogeschool voor de Kunsten Utrecht | Utrecht | BA Product Design, BA Spatial Des
 Koninklijke Academie van Beeldende Kunsten | Den Haag | BA Graphic Design, MA Non Linear Narrative
 Piet Zwart Institute | Rotterdam | MA Interior Architecture: Research + Design
 Sandberg Instituut | Amsterdam | MA Design, MA Design of Experiences
+ArtEZ Hogeschool voor de Kunsten | Arnhem | BA Product Design
 
 De dataset is op de volgende manier georganiseerd:
 
