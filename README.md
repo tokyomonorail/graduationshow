@@ -20,9 +20,9 @@ Header | Inhoud
 `titel`| Titel van het project
 `url`| Link naar de originele publicatie
 `inhoud`| Beschrijvende tekst
-`medium1`| Gekozen medium
-`medium2`| Gekozen medium (bij meerdere)
-`medium3`| Gekozen medium (bij meerdere)
+`vorm1`| Gekozen vorm
+`vorm2`| Gekozen vorm (bij meerdere)
+`vorm3`| Gekozen vorm (bij meerdere)
 `onderwerp1`| Gekozen onderwerp
 `onderwerp2`| Gekozen onderwerp (bij meerdere)
 `onderwerp3`| Gekozen onderwerp (bij meerdere)
@@ -33,5 +33,5 @@ Header | Inhoud
 
 Notities:
 
-- Alle medium/onderwerp tags zijn geschreven in het Nederlands, ongeacht de taal van de beschrijvende tekst
-- In medium/onderwerp kolommen staan alleen zelfstandige naamwoorden zonder lidwoord. Als het onderwerp uit meerdere woorden bestaat worden die aan elkaar geschreven. Dus 'socialemedia' in plaats van 'sociale media' en 'lichaam' in plaats van 'het lichaam'.
+- Alle vorm/onderwerp tags zijn geschreven in het Nederlands, ongeacht de taal van de beschrijvende tekst
+- In de vorm/onderwerp kolommen staan alleen zelfstandige naamwoorden zonder lidwoord. Als het onderwerp uit meerdere woorden bestaat worden die aan elkaar geschreven. Dus 'socialemedia' in plaats van 'sociale media' en 'hetlichaam' in plaats van 'het lichaam'.
