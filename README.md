@@ -13,7 +13,7 @@ Hogeschool voor de Kunsten Utrecht | Utrecht | BA Product Design, BA Spatial Des
 Koninklijke Academie van Beeldende Kunsten | Den Haag | BA Graphic Design, MA Non Linear Narrative | 50
 Piet Zwart Institute (Willem de Kooning Academie) | Rotterdam | MA Interior Architecture: Research + Design | 6
 Sandberg Instituut (Gerrit Rietveld Academie) | Amsterdam | MA Design, MA Design of Experiences | 20
-Willem de Kooning Academie | BA Product Design, BA Spatial Design, BA Graphic Design, BA Lifestyle Transformation Design, BA Audiovisual Design, BA Fashion Design, MA Design | 76
+Willem de Kooning Academie | Rotterdam | BA Product Design, BA Spatial Design, BA Graphic Design, BA Lifestyle Transformation Design, BA Audiovisual Design, BA Fashion Design, MA Design | 76
 
 
 De dataset is op de volgende manier georganiseerd:
