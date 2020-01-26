@@ -2,16 +2,19 @@
 
 `graduationshow-data.csv` geeft een overzicht van afstudeerprojecten aan Nederlandse design-gerelateerde opleidingen uit 2019:
 
-Academie | Plaats | Afdeling
+Academie | Plaats | Afdeling | Aantal projecten
 --- | --- | ---
-Design Academy Eindhoven | Eindhoven | MA Contextual Design, MA Design Curating and Writing, MA Information Design, MA Social Design, BA Food Non Food, BA Man and Activity, BA Man and Communication, BA Man and Identity, BA Man and Leisure, BA Man and Motion, BA Man and Well being, BA Public Private
-Fontys Academy of Art, Communication and Design | Tilburg | BA Experience Design
-Gerrit Rietveld Academie | Amsterdam | designLAB, Architectural Design
-Hogeschool voor de Kunsten Utrecht | Utrecht | BA Product Design, BA Spatial Design, BA Fashion Design, MA Interior Architecture
-Koninklijke Academie van Beeldende Kunsten | Den Haag | BA Graphic Design, MA Non Linear Narrative
-Piet Zwart Institute | Rotterdam | MA Interior Architecture: Research + Design
-Sandberg Instituut | Amsterdam | MA Design, MA Design of Experiences
-ArtEZ Hogeschool voor de Kunsten | Arnhem | BA Product Design
+AKV St. Joost | Breda/Den Bosch | BA Grafisch/Ruimtelijk Ontwerp | 29
+ArtEZ Hogeschool voor de Kunsten | Arnhem | BA Product Design | 14
+Design Academy Eindhoven | Eindhoven | MA Contextual Design, MA Design Curating and Writing, MA Information Design, MA Social Design, BA Food Non Food, BA Man and Activity, BA Man and Communication, BA Man and Identity, BA Man and Leisure, BA Man and Motion, BA Man and Well being, BA Public Private | 187
+Gerrit Rietveld Academie | Amsterdam | designLAB, Architectural Design | 20
+Hogeschool voor de Kunsten Tilburg | Tilburg | BA Academy of Art, Communication and Design | 14
+Hogeschool voor de Kunsten Utrecht | Utrecht | BA Product Design, BA Spatial Design, BA Fashion Design, MA Interior Architecture | 82
+Koninklijke Academie van Beeldende Kunsten | Den Haag | BA Graphic Design, MA Non Linear Narrative | 50
+Piet Zwart Institute (Willem de Kooning Academie) | Rotterdam | MA Interior Architecture: Research + Design | 6
+Sandberg Instituut (Gerrit Rietveld Academie) | Amsterdam | MA Design, MA Design of Experiences | 20
+Willem de Kooning Academie | BA Product Design, BA Spatial Design, BA Graphic Design, BA Lifestyle Transformation Design, BA Audiovisual Design, BA Fashion Design, MA Design | 76
+
 
 De dataset is op de volgende manier georganiseerd:
 
