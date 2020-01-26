@@ -3,7 +3,7 @@
 `graduationshow-data.csv` geeft een overzicht van afstudeerprojecten aan Nederlandse design-gerelateerde opleidingen uit 2019:
 
 Academie | Plaats | Afdeling | Aantal projecten
---- | --- | ---
+--- | --- | --- | ---
 AKV St. Joost | Breda/Den Bosch | BA Grafisch/Ruimtelijk Ontwerp | 29
 ArtEZ Hogeschool voor de Kunsten | Arnhem | BA Product Design | 14
 Design Academy Eindhoven | Eindhoven | MA Contextual Design, MA Design Curating and Writing, MA Information Design, MA Social Design, BA Food Non Food, BA Man and Activity, BA Man and Communication, BA Man and Identity, BA Man and Leisure, BA Man and Motion, BA Man and Well being, BA Public Private | 187
